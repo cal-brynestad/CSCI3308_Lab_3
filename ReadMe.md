@@ -1,2 +1,0 @@
-cal brynestad
-Ryan Quinlan
