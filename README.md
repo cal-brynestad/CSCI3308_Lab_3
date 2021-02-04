@@ -1,2 +1,6 @@
-# CSCI3308_Lab_3
+Maigh Kaur 
+Jammu Cal 
+Brynestad 
+Wayne Mak 
+Ethan Thompson 
 Ryan Quinlan
