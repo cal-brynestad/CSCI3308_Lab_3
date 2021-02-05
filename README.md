@@ -1,6 +1,6 @@
 # CSCI3308_Lab_3
 Maigh Jammu 
 Cal Brynestad
-Wayne Mak
+Wayne Mak, hello world
 Ryan Quinlan
 Ethan Thompson
