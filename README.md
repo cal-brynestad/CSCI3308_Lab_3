@@ -1,4 +1,3 @@
-Project Team Members: 
 Maigh Kaur Jammu 
 Cal Brynestad17 
 Wayne Mak, hello world!What's UP! 
@@ -7,3 +6,4 @@ Wayne Mak, hello world!Hi!
 main
 Ethan Thompson
 Ryan Quinlan 
+
