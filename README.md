@@ -6,3 +6,4 @@ Wayne Mak
 Ethan Thompson
 Ryan Quinlan 
 
+Our project is pretty cool.
